@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+    margin: 10;
+    padding: 5;
+    font-family: Arial, sans-serif; /* opcional: define a fonte do texto no corpo da página */
+}
+
+h1 {
+    color: rgb(255, 255, 255); /* opcional: define a cor do texto dentro do elemento h1 */
+}
+body {
+    background-color: #1b2c0c;
+    margin: 10;
+    padding: 5;
+    font-family: Arial, sans-serif;
+    color: white; /* Texto branco */
+}

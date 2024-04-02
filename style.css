@@ -1,22 +1,25 @@
 body {
     background-color: green;
     margin: 10;
-    padding: 5;
+    padding: 30px;
     font-family: Arial, sans-serif; /* opcional: define a fonte do texto no corpo da página */
+    text-align: center;
 }
 
 h1 {
-    color: rgb(255, 255, 255); /* opcional: define a cor do texto dentro do elemento h1 */
+    color: rgb(0, 0, 0); /* opcional: define a cor do texto dentro do elemento h1 */
 }
 body {
     background-color: #1b2c0c;
     margin: 10;
-    padding: 5;
+    padding: 30px;
     font-family: Arial, sans-serif;
-    color: white; /* Texto branco */
+    color: rgb(0, 0, 0); /* Texto preto */
+    text-align: center;
 }
   
 body{
-   rgb(46,227,0);
+    color:#1b2c0c(46,227,0);
    background: linear-gradient(90deg, rgba(46,227,0,1) 0%, rgba(0,96,25,1) 35%, rgba(223,127,0,1) 100%);
+   text-align: center;
 }
